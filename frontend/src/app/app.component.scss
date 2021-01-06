@@ -1,9 +1,19 @@
-h1{ 
+
+.login-font {
     font-family: monospace;
+    padding-left: 27px;
 }
 
-.heading-font {
-    font-family: monospace;
-    font-size: 40px;
-    color: green;
+.login {
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.box-style {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888
 }
